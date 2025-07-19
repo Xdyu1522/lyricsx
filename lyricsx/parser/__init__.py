@@ -1,0 +1,1 @@
+from .lrc_parser import StandardLyricDocument, StandardLRCParser
